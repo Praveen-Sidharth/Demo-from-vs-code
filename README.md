@@ -1,2 +1,2 @@
 # Day 1 task
-Hai
+Hai and Hello
